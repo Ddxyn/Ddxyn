@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I'm Adil Daysuke 👋
 
 <!--
 **Ddxyn/Ddxyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning on Game Developer
+
+![bochi](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms0ZmZhbWVocnNqbWs2eTh5ZWZnZHIxeWt0ZWl3aTRzcnQ1emgyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KWx8aTaO26uuCO2oad/giphy.gif)
