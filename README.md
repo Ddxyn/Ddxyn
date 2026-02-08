@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 #### Connect with me
 
-![https://instagram.com/adildaysuke](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.instagram.com/adildaysuke?igsh=MXBjaWJoNXE1cmtxZQ==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ![bochi](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms0ZmZhbWVocnNqbWs2eTh5ZWZnZHIxeWt0ZWl3aTRzcnQ1emgyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KWx8aTaO26uuCO2oad/giphy.gif)
